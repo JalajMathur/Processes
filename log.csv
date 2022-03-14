@@ -1,0 +1,114 @@
+,ins,del,path,name,date_iso,subject,sha
+0,236,0,gitjson.py,Vaibhav Garg,2022-03-14 14:48:30 +0530,Added Log tool and log for release note prep,eaa74bf
+1,725,0,log.json,Vaibhav Garg,2022-03-14 14:48:30 +0530,Added Log tool and log for release note prep,eaa74bf
+2,-,-,{Project Management => Obsolete Templates}/TMPL_RSKMTX.xlsx,Vaibhav Garg,2022-03-12 11:22:15 +0530,First pass through risk management procedure to bring it inline with einframe. Obsoleted the risk matrix template.,015c091
+3,-,-,Project Management/PRCD_RSKMGM.docx,Vaibhav Garg,2022-03-12 11:22:15 +0530,First pass through risk management procedure to bring it inline with einframe. Obsoleted the risk matrix template.,015c091
+4,-,-,{Project Management => Obsolete Templates}/TMPL_MLSRVW.xlsx,Vaibhav Garg,2022-03-12 10:48:27 +0530,First pass through the Project Monitoring procedure to bring it inline with GIL.ef. Added guidance for EVMS. Obsoleted milestone review template as this is a part of the gate review workflow. The checkpoints can be harmonised.,bb8e8fe
+5,-,-,Project Management/Earned Value Management System (EVMS)- a Qualitative Overview.pdf,Vaibhav Garg,2022-03-12 10:48:27 +0530,First pass through the Project Monitoring procedure to bring it inline with GIL.ef. Added guidance for EVMS. Obsoleted milestone review template as this is a part of the gate review workflow. The checkpoints can be harmonised.,bb8e8fe
+6,-,-,Project Management/PRCD_PRJMAC.docx,Vaibhav Garg,2022-03-12 10:48:27 +0530,First pass through the Project Monitoring procedure to bring it inline with GIL.ef. Added guidance for EVMS. Obsoleted milestone review template as this is a part of the gate review workflow. The checkpoints can be harmonised.,bb8e8fe
+7,-,-,{Project Management => Obsolete Templates}/TMPL_PRJPLN.docx,Vaibhav Garg,2022-03-12 10:08:27 +0530,"First pass through Project planning procedure, modified in line with EinFrame. Removed all references to TMPL_PRJPLN. Eliminated redundencies. Added Project Management guide for Einframe. Obsoleted the Project Plan template.",fcf586a
+8,-,-,Project Management/PRCD_PRJPLN.docx,Vaibhav Garg,2022-03-12 10:08:27 +0530,"First pass through Project planning procedure, modified in line with EinFrame. Removed all references to TMPL_PRJPLN. Eliminated redundencies. Added Project Management guide for Einframe. Obsoleted the Project Plan template.",fcf586a
+9,-,-,Project Management/Project Management Starter Guide for Non-Admin Users.docx,Vaibhav Garg,2022-03-12 10:08:27 +0530,"First pass through Project planning procedure, modified in line with EinFrame. Removed all references to TMPL_PRJPLN. Eliminated redundencies. Added Project Management guide for Einframe. Obsoleted the Project Plan template.",fcf586a
+10,-,-,Project Management/TMPL_CMPLAN.docx,Vaibhav Garg,2022-03-12 10:08:27 +0530,"First pass through Project planning procedure, modified in line with EinFrame. Removed all references to TMPL_PRJPLN. Eliminated redundencies. Added Project Management guide for Einframe. Obsoleted the Project Plan template.",fcf586a
+11,-,-,Engineering/Verification and Validation/PRCD_VALDTN.docx,Vaibhav Garg,2022-03-11 17:11:03 +0530,Validation procedure updated in line with EinFrame provision,b8dd3c3
+12,-,-,Engineering/Verification and Validation/PRCD_PERREV.docx,Vaibhav Garg,2022-03-11 17:02:30 +0530,Peer review procedure updated in line with EinFrame provision,b716cd2
+13,-,-,{Process Management => Obsolete Templates}/TMPL_PEGPLN.docx,Vaibhav Garg,2022-03-11 16:52:33 +0530,TMPL_PEGPLN marked as obsolete,b745612
+14,-,-,Process Management/PRCD_ORGFCS.docx,Vaibhav Garg,2022-03-11 16:50:11 +0530,PEG procedure updated inline with Einframe provisions. The PEG Plan template has been made redundent,8e55f43
+15,-,-,Engineering/Verification and Validation/PRCD_PERREV.docx,JalajMathur,2022-03-04 17:40:01 +0530,Modified to mention Incident Management as Review & Defect Log.,80419da
+16,-,-,Process Management/Gap Analysis_Einframe Provision_R002.xlsx,JalajMathur,2022-03-04 12:14:48 +0530,Addded EinFrame provision,78486d6
+17,-,-,Engineering/Design/GDLN_FRWSTD.pdf,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+18,-,-,Engineering/Design/MSTL_FRWLIB.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+19,-,-,Engineering/Design/MSTL_HDWLIB.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+20,-,-,Engineering/Design/MSTL_MCHLIB.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+21,-,-,Engineering/Design/PRCD_DESIGN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+22,-,-,Engineering/Design/PRCD_IMPINT.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+23,-,-,Engineering/Design/TMPL_FRWDSN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+24,-,-,Engineering/Design/TMPL_HDWDSN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+25,-,-,Engineering/Design/TMPL_INTDSN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+26,-,-,Engineering/Design/TMPL_MCHDRG.pdf,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+27,-,-,Engineering/Design/TMPL_MCHDSN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+28,-,-,Engineering/Design/TMPL_PRDBOM.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+29,-,-,Engineering/Design/TMPL_SCHMTC.pdf,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+30,-,-,Engineering/Requirements Development and Management/CHKL_REQVAL.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+31,-,-,Engineering/Requirements Development and Management/PRCD_REQDEV.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+32,-,-,Engineering/Requirements Development and Management/TMPL_CHGREQ.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+33,-,-,Engineering/Requirements Development and Management/TMPL_CUSTFB.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+34,-,-,Engineering/Requirements Development and Management/TMPL_FUNSPC.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+35,-,-,Engineering/Requirements Development and Management/TMPL_REQTRT.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+36,-,-,Engineering/Verification and Validation/CHKL_CODRVW.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+37,-,-,Engineering/Verification and Validation/CHKL_HDWRVW.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+38,-,-,Engineering/Verification and Validation/CHKL_MCHRVW.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+39,-,-,Engineering/Verification and Validation/CHKL_TSTCAS.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+40,-,-,Engineering/Verification and Validation/GDLN_PERREV.pdf,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+41,-,-,Engineering/Verification and Validation/PRCD_PERREV.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+42,-,-,Engineering/Verification and Validation/PRCD_VALDTN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+43,-,-,Engineering/Verification and Validation/TMPL_FWTCAS.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+44,-,-,Engineering/Verification and Validation/TMPL_HWTCAS.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+45,-,-,Engineering/Verification and Validation/TMPL_INTCAS.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+46,-,-,Engineering/Verification and Validation/TMPL_MCTCAS.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+47,-,-,Engineering/Verification and Validation/TMPL_SYSCAS.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+48,-,-,Engineering/Verification and Validation/TMPL_VALRPT.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+49,-,-,Process Management/Audit Checklist_Template.xltx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+50,-,-,Process Management/PRCD_ORGFCS.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+51,-,-,Process Management/Procedure Template.dotx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+52,-,-,Process Management/TMPL_PEGPLN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+53,-,-,Process Management/TMPL_PEGRVW.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+54,-,-,Process Management/TMPL_QMSEML.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+55,-,-,Process Management/TMPL_QMSREL.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+56,-,-,Process Management/TMPL_QMSREQ.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+57,-,-,Process Management/TMPL_TMPLAT.dotx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+58,-,-,Process Management/Thumbs.db,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+59,-,-,Support/Configuration Management/CHKL_ITAUDT.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+60,-,-,Support/Configuration Management/MSTL_CMLIST.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+61,-,-,Support/Configuration Management/PRCD_BACKUP.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+62,-,-,Support/Configuration Management/PRCD_CONFIG.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+63,-,-,Support/Configuration Management/TMPL_BKPPLN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+64,-,-,Support/Configuration Management/TMPL_RELNOT.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+65,-,-,Support/Decision Analysis and Resolution/PRCD_DARPRC.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+66,-,-,Support/Decision Analysis and Resolution/TMPL_DARGEN.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+67,-,-,Support/Decision Analysis and Resolution/TMPL_DARPLT.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+68,-,-,Support/Measurement and Analysis/MSTL_BOTOPO.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+69,-,-,Support/Measurement and Analysis/PRCD_MEASUR.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+70,-,-,Support/Measurement and Analysis/TMPL_MESRPT.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+71,-,-,Support/Measurement and Analysis/TOOL_MESURE.xlsm,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+72,-,-,Support/Measurement and Analysis/TOOL_METRIC.zip,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+73,-,-,Support/Measurement and Analysis/TOOL_SMTSRW.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+74,-,-,Support/Quality Assurance/CHKL_ADTPEG.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+75,-,-,Support/Quality Assurance/CHKL_ADTTRN.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+76,-,-,Support/Quality Assurance/CHKL_AUDITT.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+77,-,-,Support/Quality Assurance/PRCD_AUDITT.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+78,-,-,Support/Quality Assurance/TMPL_ADTPLN.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+79,-,-,Support/Quality Assurance/TMPL_ADTSCH.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+80,-,-,Support/Quality Assurance/TMPL_PQARVW.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+81,-,-,Support/Quality Assurance/TOOL_ADTRPT.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+82,-,-,Support/Training/Monthly Training Calendar.xls,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+83,-,-,Support/Training/PRCD_TRAING.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+84,-,-,Support/Training/TMPL_ATNSHT.xls,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+85,-,-,Support/Training/TMPL_DARTRG.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+86,-,-,Support/Training/TMPL_FBPRTC.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+87,-,-,Support/Training/TMPL_FBTRNR.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+88,-,-,Support/Training/TMPL_TRGSTR.docx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+89,-,-,Support/Training/Training Database.xlsx,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+90,-,-,Support/Training/Yearly Training Calender.xls,JalajMathur,2022-03-04 12:02:34 +0530,"Upload engineering, process and support folders",af20a8e
+91,-,-,Project Management/CHKL_PLNREV.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+92,-,-,Project Management/GDLN_ESTMAT.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+93,-,-,Project Management/GDLN_TAILOR.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+94,-,-,Project Management/INFO_RSKLST.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+95,-,-,Project Management/PRCD_ESTMAT.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+96,-,-,Project Management/PRCD_PRJMAC.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+97,-,-,Project Management/PRCD_PRJPLN.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+98,-,-,Project Management/PRCD_RSKMGM.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+99,-,-,Project Management/TMPL_CLOSRE.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+100,-,-,Project Management/TMPL_DARRSC.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+101,-,-,Project Management/TMPL_ESTFNL.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+102,-,-,Project Management/TMPL_ESTFRW.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+103,-,-,Project Management/TMPL_ESTHDW.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+104,-,-,Project Management/TMPL_ESTMCH.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+105,-,-,Project Management/TMPL_MINMET.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+106,-,-,Project Management/TMPL_MLSRVW.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+107,-,-,Project Management/TMPL_PRJPLN.docx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+108,-,-,Project Management/TMPL_ROCSAN.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+109,-,-,Project Management/TMPL_RSKMTX.xlsx,JalajMathur,2022-03-04 11:59:27 +0530,Initial from git,bc598c6
+110,-,-,GDLN_TEAMNG.docx,JalajMathur,2022-03-04 11:32:10 +0530,Initial,27bd613
+111,-,-,POLC_DEVPOL.docx,JalajMathur,2022-03-04 11:32:10 +0530,Initial,27bd613
+112,-,-,QMS3.1_QMSREL.docx,JalajMathur,2022-03-04 11:32:10 +0530,Initial,27bd613
